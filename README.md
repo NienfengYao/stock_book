@@ -12,3 +12,6 @@
   * 從股票對帳單中讀取資料並轉存於 database.
   * Save database in Google Drive.
   * 捉取觀注股票每日股價
+
+* Reference
+  * [Python 讀取與寫入 CSV 檔案教學與範例](https://blog.gtwang.org/programming/python-csv-file-reading-and-writing-tutorial/)
